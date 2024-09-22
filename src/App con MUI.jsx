@@ -31,6 +31,7 @@ function App() {
       <Button variant='contained' onClick={handleClick} sx={{color: '#b0ffff', backgroundColor: '#d40000'}}>
         Me has hecho {count} rascaditas
       </Button>
+      <Button>de nuevo aquí</Button>
     </Stack>
     </div>
   )
